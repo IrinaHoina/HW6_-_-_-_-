@@ -17,7 +17,10 @@
 - Обработка сохранена в файл `Калькулятор.epf`.
 
 ### Скриншот формы обработки:
-> (вставь своё фото)
+<img width="1438" height="436" alt="Калькулятор3" src="https://github.com/user-attachments/assets/f797d3cb-0518-4683-af2a-dde14c4a4aa8" />
+<img width="1919" height="951" alt="Калькулятор1" src="https://github.com/user-attachments/assets/9a786606-7e61-440c-8c13-93c8ddbab231" />
+<img width="1410" height="778" alt="Калькулятор 2" src="https://github.com/user-attachments/assets/01509536-fe11-4309-82f8-6e77039584eb" />
+
 
 ### Файл обработки:
 [Скачать Калькулятор.epf](Калькулятор.epf
@@ -37,7 +40,9 @@
 - Отчёт сохранён в файл `Лекции.erf`.
 
 ### Скриншот схемы компоновки данных и настроек:
-> (вставь своё фото)
+<img width="1919" height="396" alt="Лекции 2 1" src="https://github.com/user-attachments/assets/442e326f-a17c-451e-8c30-65504f5c5414" />
+<img width="1893" height="895" alt="Лекции 2 2" src="https://github.com/user-attachments/assets/9c6fe56d-5ff8-45bd-90c0-133398b76b3f" />
+
 
 ### Файл отчёта:
 [Скачать Лекции.erf](Лекции.erf)
